@@ -1,0 +1,9 @@
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form1.resources
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Properties.Resources.resources
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.GenerateResource.Cache
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+C:\Users\ki\Google Drive\Programming Fundamentals\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
